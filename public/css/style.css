@@ -1,0 +1,16 @@
+#convert {
+  background-color: grey;
+}
+.convert {
+  text-align: center;
+}
+
+#input {
+  width:100%;
+  height: 300px;
+}
+
+#output {
+  height: 300px;
+  border: 1px solid black;
+}
